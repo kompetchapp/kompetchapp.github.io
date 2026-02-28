@@ -9,6 +9,7 @@ title: หน้าหลัก Kompetch App
 ### บทความที่น่าสนใจ
 * [วิธีสร้าง GitHub Pages ด้วย Markdown](article1)
 * [แนะนำตัวละครในโปรเจกต์](about)
+* [3 เครื่องมือลับสำหรับ Developer ยุคใหม่](dev-tools)
 
 ---
 *สร้างโดย Kompetch*
