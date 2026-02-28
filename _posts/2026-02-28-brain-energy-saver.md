@@ -1,7 +1,7 @@
 ---
 layout: default
 title: เมื่อสมองล้าจนก้าวไม่ออก
-categories: [productivity, life]
+categories: [productivity, lifestyle]
 date: 2026-02-28
 ---
 
