@@ -17,9 +17,12 @@ title: หน้าหลัก Kompetch App
 </ul>
 
 ### 🎭 หมวดไลฟ์สไตล์ (Life)
-<ul>
-  {% for post in site.categories.life %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<ul class="post-list">
+  {% for post in site.categories.life limit:5 %}
+    <li>
+      <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+    </li>
   {% endfor %}
 </ul>
   
