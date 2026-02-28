@@ -32,4 +32,4 @@ AI Assistant ที่เปรียบเสมือน "คู่หู" ใ
 ---
 > "The best tool is the one that helps you get the job done."
 
-[← กลับไปหน้าหลัก](index)
+[← กลับไปหน้าหลัก](../index)
